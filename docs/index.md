@@ -1,12 +1,12 @@
 ## CITE architecture libraries: version numbers and API documentation
 
-Last updated: Thu Dec  5 22:24:04 EST 2019
+Last updated: Thu Dec  5 22:30:47 EST 2019
 
 
 ## Editing
 
-- [midvalidator](projectvalidator/api/index.html) 9.1.0
-- midreaders 1.0.0
+- [midvalidator](projectvalidator/api/edu/holycross/shot/mid/validator/index.html) 9.1.0
+- [midreaders](markupreaders/api/edu/holycross/shot/mid/markupreaders) 1.0.0
 - xmlutils 2.0.0
 
 ## HMT
