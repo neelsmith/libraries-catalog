@@ -2,7 +2,7 @@
 ## Editing
 
 - [midvalidator](projectvalidator/api/edu/holycross/shot/mid/validator/index.html) 9.1.0
-- midreaders 1.0.0
+- [midreaders](markupreaders/api/edu/holycross/shot/mid/markupreaders) 1.0.0
 - xmlutils 2.0.0
 
 ## HMT
