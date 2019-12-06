@@ -1,6 +1,6 @@
 ## CITE architecture libraries: version numbers and API documentation
 
-Last updated: Thu Dec  5 22:44:32 EST 2019
+Last updated: Thu Dec  5 22:45:42 EST 2019
 
 
 ## Editing
@@ -11,8 +11,8 @@ Last updated: Thu Dec  5 22:44:32 EST 2019
 
 ## HMT
 
-hmt-mom 3.5.3
-hmt-textmodel 6.0.1
+- hmt-mom 3.5.3
+- hmt-textmodel 6.0.1
 
 ## Languages
 
@@ -21,9 +21,9 @@ hmt-textmodel 6.0.1
 - latphone 2.7.2
 - latincorpus 2.2.1
 - latin-text-model 1.3.0
-tabulae 6.0.1 (bintray)
+- tabulae 6.0.1 (bintray)
 
 ## Analysis, other utilities
 
-seqcomp 1.0.0
-histoutils 2.2.0
+- seqcomp 1.0.0
+- histoutils 2.2.0
