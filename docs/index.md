@@ -1,6 +1,6 @@
 ## CITE architecture libraries: version numbers and API documentation
 
-Last updated: Thu Dec  5 22:30:47 EST 2019
+Last updated: Thu Dec  5 22:34:02 EST 2019
 
 
 ## Editing
@@ -16,7 +16,7 @@ hmt-textmodel 6.0.1
 
 ## Languages
 
-greek 2.4.0
+[greek](greek/api/edu/holycross/shot/greek) 2.4.0
 gsphone 1.4.3
 latphone 2.7.2
 latincorpus 2.2.1
