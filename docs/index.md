@@ -23,12 +23,16 @@ Last updated: Fri Dec  6 08:15:13 EST 2019
 - latin-text-model 1.3.0
 - [tabulae](tabulae/api/edu/holycross/shot/tabulae) 6.0.1
 
-## Archaeological data analysis and ancient science
+## Archaeological data analysis
 
 - nomisma (work with numismatic data sets from <http://nomisma.org/>)
 - p-lod (Pompeii, Linked Open Data)
 - beazley
-- ptolemy
+
+## Ancient science
+
+
+- ptolemy-texts ([github](https://github.com/neelsmith/ptolemy-texts)]
 
 
 
