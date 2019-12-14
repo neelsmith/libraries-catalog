@@ -4,7 +4,7 @@ title: "Code libraries: version numbers, API docs, github repos"
 ---
 
 
-Last updated: Sat Dec 14 12:09:13 EST 2019
+Last updated: Sat Dec 14 12:12:29 EST 2019
 
 
 
@@ -14,7 +14,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 
 ## Editing digital text corpora
 
-| API docs                                                                         | Version | Description                                                    | Github                                              |
+| API docs                                                                         | Version | Summary                                                        | Github                                              |
 |:---------------------------------------------------------------------------------|:--------|:---------------------------------------------------------------|:----------------------------------------------------|
 | [midvalidator](projectvalidator/api/edu/holycross/shot/mid/validator/index.html) | 9.1.0   | A code library to validate HC-MID editorial projects.          | [github](https://github.com/HCMID/projectvalidator) |
 | [midreaders](markupreaders/api/edu/holycross/shot/mid/markupreaders)             | 1.0.0   | Implementations of the `MidMarkupReader` trait in Scala.       | [github](https://github.com/HCMID/markupreaders)    |
@@ -23,7 +23,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 
 ## Other utilities
 
-| API docs                                                  | Version | Description                                                                                                                                  | Github                                            |
+| API docs                                                  | Version | Summary                                                                                                                                      | Github                                            |
 |:----------------------------------------------------------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
 | [seqcomp](seqcomp/api/edu/holycross/shot/seqcomp)         | 1.0.0   | Scala utilities for comparing type-parameterized sequences. Includes computing Longest Common Subsequence and Shortest Common Supersequence. | [github](https://github.com/neelsmith/lcs-scs)    |
 | [histoutils](histoutils/api/edu/holcross/shot/histoutils) | 2.2.0   | Utilities for working in Scala with type-parameterized histograms and frequency counts.                                                      | [github](https://github.com/neelsmith/histoutils) |
@@ -33,7 +33,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 ## Homer Multitext project
 
 
-| API docs      | Version | Description                                            | Github                                                    |
+| API docs      | Version | Summary                                                | Github                                                    |
 |:--------------|:--------|:-------------------------------------------------------|:----------------------------------------------------------|
 | hmt-mom       | 3.5.3   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)       |
 | hmt-textmodel | 6.0.1   | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel) |
@@ -43,7 +43,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 ## Greek and Latin
 
 
-| API docs                                              | Version | Description                                                                | Github                                              |
+| API docs                                              | Version | Summary                                                                    | Github                                              |
 |:------------------------------------------------------|:--------|:---------------------------------------------------------------------------|:----------------------------------------------------|
 | [greek](greek/api/edu/holycross/shot/greek)           | 2.4.0   | Utilities in Scala for working with polytonic ancient Greek.               | [github](https://github.com/neelsmith/greek)        |
 | [gsphone](gsphone/api/edu/holycross/shot/gsphonology) | 1.4.3   | Manipulate GreekString objects phonologically                              | [github](https://github.com/neelsmith/gsphonology)  |
@@ -57,7 +57,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 ## Archaeological data analysis
 
 
-| API docs                                           | Version | Description                                                | Github                                         |
+| API docs                                           | Version | Summary                                                    | Github                                         |
 |:---------------------------------------------------|:--------|:-----------------------------------------------------------|:-----------------------------------------------|
 | [nomisma](nomisma/api/edu/holycross/shot/nomisma/) | 2.2.0   | Work with numismatic data sets from <http://nomisma.org/>. | [github](https://github.com/neelsmith/nomisma) |
 | p-lod                                              |         | Pompeii, Linked Open Data                                  |                                                |
@@ -65,6 +65,6 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 
 ## Ancient science
 
-| API docs      | Version | Description | Github                                               |
-|:--------------|:--------|:------------|:-----------------------------------------------------|
-| ptolemy-texts |         |             | [github](https://github.com/neelsmith/ptolemy-texts) |
+| API docs      | Version | Summary | Github                                               |
+|:--------------|:--------|:--------|:-----------------------------------------------------|
+| ptolemy-texts |         |         | [github](https://github.com/neelsmith/ptolemy-texts) |
