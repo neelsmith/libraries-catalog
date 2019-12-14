@@ -25,8 +25,9 @@ Last updated: Fri Dec  6 08:15:13 EST 2019
 
 ## Archaeological data analysis
 
-- nomisma
-- p-lod
+- nomisma (work with numismatic data sets from <http://nomisma.org/>)
+- p-lod (Pompeii, Linked Open Data)
+- beazley
 
 
 
