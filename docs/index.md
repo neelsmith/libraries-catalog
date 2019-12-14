@@ -26,6 +26,8 @@ Last updated: Fri Dec  6 08:15:13 EST 2019
 ## Archaeological data analysis
 
 - nomisma
+- p-lod
+
 
 
 ## Analysis, other utilities
