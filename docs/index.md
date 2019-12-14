@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Code libraries: version numbers, API docs, github repos"
+---
+Sat Dec 14 11:44:31 EST 2019
+
 
 
 ## CITE architecture libraries
