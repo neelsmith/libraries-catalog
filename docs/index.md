@@ -1,7 +1,8 @@
-## CITE architecture libraries: version numbers and API documentation
 
-Last updated: Sat Dec 14 11:18:55 EST 2019
 
+## CITE architecture libraries
+
+See information  at <https://cite-architecture.github.io/cite-api-docs/>.
 
 ## Editing digital text corpora
 
@@ -12,7 +13,7 @@ Last updated: Sat Dec 14 11:18:55 EST 2019
 | xmlutils                                                                         | 2.0.0   |             |        |
 
 
-## HMT
+## Homer Multitext project
 
 
 | API docs      | Version | Description | Github |
