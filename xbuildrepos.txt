@@ -4,3 +4,4 @@ https://github.com/neelsmith/gsphonology
 https://github.com/neelsmith/latphone
 https://github.com/neelsmith/tabulae
 https://github.com/neelsmith/histoutils
+https://github.com/neelsmith/nomisma
