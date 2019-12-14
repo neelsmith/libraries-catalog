@@ -3,18 +3,18 @@
 Last updated: Fri Dec  6 08:15:13 EST 2019
 
 
-## Editing
+## Digital text editing
 
 - [midvalidator](projectvalidator/api/edu/holycross/shot/mid/validator/index.html) 9.1.0
 - [midreaders](markupreaders/api/edu/holycross/shot/mid/markupreaders) 1.0.0
 - xmlutils 2.0.0
 
-## HMT
+## Homer Multitext project
 
 - hmt-mom 3.5.3
 - hmt-textmodel 6.0.1
 
-## Languages
+## Greek and Latin
 
 - [greek](greek/api/edu/holycross/shot/greek) 2.4.0
 - [gsphone](gsphone/api/edu/holycross/shot/gsphonology) 1.4.3
@@ -31,7 +31,7 @@ Last updated: Fri Dec  6 08:15:13 EST 2019
 
 
 
-## Analysis, other utilities
+## Other utilities
 
 - [seqcomp](seqcomp/api/edu/holycross/shot/seqcomp) 1.0.0
 - [histoutils](histoutils/api/edu/holcross/shot/histoutils) 2.2.0
