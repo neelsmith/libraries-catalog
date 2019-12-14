@@ -1,6 +1,6 @@
 ## CITE architecture libraries: version numbers and API documentation
 
-Last updated: Sat Dec 14 11:17:37 EST 2019
+Last updated: Sat Dec 14 11:18:55 EST 2019
 
 
 ## Editing digital text corpora
