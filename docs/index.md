@@ -1,6 +1,6 @@
 ## CITE architecture libraries: version numbers and API documentation
 
-Last updated: Sat Dec 14 11:15:25 EST 2019
+Last updated: Sat Dec 14 11:17:37 EST 2019
 
 
 ## Editing digital text corpora
@@ -39,11 +39,11 @@ Last updated: Sat Dec 14 11:15:25 EST 2019
 ## Archaeological data analysis
 
 
-| API docs                                           | Version | Description                                               | Github |
-|:---------------------------------------------------|:--------|:----------------------------------------------------------|:-------|
-| [nomisma](nomisma/api/edu/holycross/shot/nomisma/) | 2.2.0   | work with numismatic data sets from <http://nomisma.org/> |        |
-| p-lod                                              |         | Pompeii, Linked Open Data                                 |        |
-| beazley                                            |         |                                                           |        |
+| API docs                                           | Version | Description                                               | Github                                         |
+|:---------------------------------------------------|:--------|:----------------------------------------------------------|:-----------------------------------------------|
+| [nomisma](nomisma/api/edu/holycross/shot/nomisma/) | 2.2.0   | Work with numismatic data sets from <http://nomisma.org/> | [github](https://github.com/neelsmith/nomisma) |
+| p-lod                                              |         | Pompeii, Linked Open Data                                 |                                                |
+| beazley                                            |         |                                                           |                                                |
 
 ## Ancient science
 
