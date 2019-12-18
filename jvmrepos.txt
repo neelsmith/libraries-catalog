@@ -1,5 +1,7 @@
 https://github.com/neelsmith/xmlutils
 https://github.com/neelsmith/latin-corpus
+https://github.com/neelsmith/ocre-texts
 https://github.com/HCMID/latin-text-model
 https://github.com/homermultitext/hmt-mom
 https://github.com/homermultitext/hmt-textmodel
+

@@ -44,8 +44,8 @@ for REPO in $(cat xbuildrepos.txt) ; do
 done;
 
 export STAMPED=`date`
-printf "## CITE architecture libraries: version numbers and API documentation\n\nLast updated: $STAMPED\n\n" > header.md
-$CAT header.md links.md > docs/index.md
+printf "\n\nLast updated: $STAMPED\n\n" > header.md
+$CAT prolog.md header.md links.md > docs/index.md
 $RM header.md
 
 export MSG="Committing automatically generated API docs."
