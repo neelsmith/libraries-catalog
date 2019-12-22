@@ -300,7 +300,7 @@
         <span class="kind">case class</span>
       </span>
       <span class="symbol">
-        <span class="name">CodePointResults</span><span class="tparams">[<span name="T">T</span>]</span><span class="params">(<span name="ortho">ortho: <a href="MidOrthography.html" class="extype" name="edu.holycross.shot.mid.validator.MidOrthography">MidOrthography</a></span>)</span><span class="result"> extends <a href="TestResults.html" class="extype" name="edu.holycross.shot.mid.validator.TestResults">TestResults</a>[<span class="extype" name="edu.holycross.shot.mid.validator.CodePointResults.T">T</span>] with <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
+        <span class="name">CodePointResults</span><span class="tparams">[<span name="T">T</span>]</span><span class="params">(<span name="ortho">ortho: <a href="MidOrthography.html" class="extype" name="edu.holycross.shot.mid.validator.MidOrthography">MidOrthography</a></span>)</span><span class="result"> extends <a href="TestResults.html" class="extype" name="edu.holycross.shot.mid.validator.TestResults">TestResults</a>[<span class="extype" name="edu.holycross.shot.mid.validator.CodePointResults.T">T</span>] with <span class="extype" name="wvlet.log.LogSupport">LogSupport</span> with <span class="extype" name="scala.Product">Product</span> with <span class="extype" name="scala.Serializable">Serializable</span></span>
       </span>
       </h4>
 
@@ -314,7 +314,7 @@ testing whether code points used are valid in a given orthographic system.
           <span class="toggle">
             Linear Supertypes
           </span>
-          <div class="superTypes hiddenContent"><span class="extype" name="scala.Serializable">Serializable</span>, <span class="extype" name="java.io.Serializable">Serializable</span>, <span class="extype" name="scala.Product">Product</span>, <span class="extype" name="scala.Equals">Equals</span>, <a href="TestResults.html" class="extype" name="edu.holycross.shot.mid.validator.TestResults">TestResults</a>[<span class="extype" name="edu.holycross.shot.mid.validator.CodePointResults.T">T</span>], <span class="extype" name="scala.AnyRef">AnyRef</span>, <span class="extype" name="scala.Any">Any</span></div>
+          <div class="superTypes hiddenContent"><span class="extype" name="scala.Product">Product</span>, <span class="extype" name="scala.Equals">Equals</span>, <span class="extype" name="wvlet.log.LogSupport">LogSupport</span>, <span class="extype" name="wvlet.log.LazyLogger">LazyLogger</span>, <span class="extype" name="wvlet.log.LoggingMethods">LoggingMethods</span>, <span class="extype" name="scala.Serializable">Serializable</span>, <span class="extype" name="java.io.Serializable">Serializable</span>, <a href="TestResults.html" class="extype" name="edu.holycross.shot.mid.validator.TestResults">TestResults</a>[<span class="extype" name="edu.holycross.shot.mid.validator.CodePointResults.T">T</span>], <span class="extype" name="scala.AnyRef">AnyRef</span>, <span class="extype" name="scala.Any">Any</span></div>
         </div></div>
         
 
@@ -340,7 +340,7 @@ testing whether code points used are valid in a given orthographic system.
                   <span class="filtertype">Inherited<br />
                   </span>
                   <ol id="linearization">
-                    <li class="in" name="edu.holycross.shot.mid.validator.CodePointResults"><span>CodePointResults</span></li><li class="in" name="scala.Serializable"><span>Serializable</span></li><li class="in" name="java.io.Serializable"><span>Serializable</span></li><li class="in" name="scala.Product"><span>Product</span></li><li class="in" name="scala.Equals"><span>Equals</span></li><li class="in" name="edu.holycross.shot.mid.validator.TestResults"><span>TestResults</span></li><li class="in" name="scala.AnyRef"><span>AnyRef</span></li><li class="in" name="scala.Any"><span>Any</span></li>
+                    <li class="in" name="edu.holycross.shot.mid.validator.CodePointResults"><span>CodePointResults</span></li><li class="in" name="scala.Product"><span>Product</span></li><li class="in" name="scala.Equals"><span>Equals</span></li><li class="in" name="wvlet.log.LogSupport"><span>LogSupport</span></li><li class="in" name="wvlet.log.LazyLogger"><span>LazyLogger</span></li><li class="in" name="wvlet.log.LoggingMethods"><span>LoggingMethods</span></li><li class="in" name="scala.Serializable"><span>Serializable</span></li><li class="in" name="java.io.Serializable"><span>Serializable</span></li><li class="in" name="edu.holycross.shot.mid.validator.TestResults"><span>TestResults</span></li><li class="in" name="scala.AnyRef"><span>AnyRef</span></li><li class="in" name="scala.Any"><span>Any</span></li>
                   </ol>
                 </div><div class="ancestors">
               <span class="filtertype"></span>
@@ -476,6 +476,38 @@ testing whether code points used are valid in a given orthographic system.
     </span>)</span>
               
         </dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#debug" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="debug(message:Any,cause:Throwable):Unit"></a><a id="debug(Any,Throwable):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#debug(message:Any,cause:Throwable):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">debug</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>, <span name="cause">cause: <span class="extype" name="scala.Throwable">Throwable</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#debug" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="debug(message:Any):Unit"></a><a id="debug(Any):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#debug(message:Any):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">debug</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
     </li><li name="scala.AnyRef#eq" visbl="pub" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
       <a id="eq(x$1:AnyRef):Boolean"></a><a id="eq(AnyRef):Boolean"></a>
       <span class="permalink">
@@ -492,6 +524,38 @@ testing whether code points used are valid in a given orthographic system.
       </span>
       
       <div class="fullcomment"><dl class="attributes block"> <dt>Definition Classes</dt><dd>AnyRef</dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#error" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="error(message:Any,cause:Throwable):Unit"></a><a id="error(Any,Throwable):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#error(message:Any,cause:Throwable):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">error</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>, <span name="cause">cause: <span class="extype" name="scala.Throwable">Throwable</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#error" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="error(message:Any):Unit"></a><a id="error(Any):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#error(message:Any):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">error</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
     </li><li name="edu.holycross.shot.mid.validator.TestResults#failures" visbl="pub" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
       <a id="failures(observations:Vector[T]):Int"></a><a id="failures(Vector[T]):Int"></a>
       <span class="permalink">
@@ -548,6 +612,38 @@ testing whether code points used are valid in a given orthographic system.
       </span>
       
       <p class="shortcomment cmt"></p><div class="fullcomment"><div class="comment cmt"></div><dl class="attributes block"> <dt>Definition Classes</dt><dd><a href="" class="extype" name="edu.holycross.shot.mid.validator.CodePointResults">CodePointResults</a> → <a href="TestResults.html" class="extype" name="edu.holycross.shot.mid.validator.TestResults">TestResults</a></dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#info" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="info(message:Any,cause:Throwable):Unit"></a><a id="info(Any,Throwable):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#info(message:Any,cause:Throwable):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">info</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>, <span name="cause">cause: <span class="extype" name="scala.Throwable">Throwable</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#info" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="info(message:Any):Unit"></a><a id="info(Any):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#info(message:Any):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">info</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
     </li><li name="scala.Any#isInstanceOf" visbl="pub" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
       <a id="isInstanceOf[T0]:Boolean"></a>
       <span class="permalink">
@@ -564,6 +660,38 @@ testing whether code points used are valid in a given orthographic system.
       </span>
       
       <div class="fullcomment"><dl class="attributes block"> <dt>Definition Classes</dt><dd>Any</dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#logAt" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="logAt(logLevel:wvlet.log.LogLevel,message:Any):Unit"></a><a id="logAt(LogLevel,Any):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#logAt(logLevel:wvlet.log.LogLevel,message:Any):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">logAt</span><span class="params">(<span name="logLevel">logLevel: <span class="extype" name="wvlet.log.LogLevel">LogLevel</span></span>, <span name="message">message: <span class="extype" name="scala.Any">Any</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
+    </li><li name="wvlet.log.LazyLogger#logger" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="logger:wvlet.log.Logger"></a><a id="logger:Logger"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#logger:wvlet.log.Logger" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier"></span>
+        <span class="kind">lazy val</span>
+      </span>
+      <span class="symbol">
+        <span class="name">logger</span><span class="result">: <span class="extype" name="wvlet.log.Logger">Logger</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected[this] </dd><dt>Definition Classes</dt><dd>LazyLogger</dd></dl></div>
     </li><li name="scala.AnyRef#ne" visbl="pub" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
       <a id="ne(x$1:AnyRef):Boolean"></a><a id="ne(AnyRef):Boolean"></a>
       <span class="permalink">
@@ -708,6 +836,38 @@ testing whether code points used are valid in a given orthographic system.
       </span>
       
       <div class="fullcomment"><dl class="attributes block"> <dt>Definition Classes</dt><dd>AnyRef</dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#trace" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="trace(message:Any,cause:Throwable):Unit"></a><a id="trace(Any,Throwable):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#trace(message:Any,cause:Throwable):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">trace</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>, <span name="cause">cause: <span class="extype" name="scala.Throwable">Throwable</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#trace" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="trace(message:Any):Unit"></a><a id="trace(Any):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#trace(message:Any):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">trace</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
     </li><li name="scala.AnyRef#wait" visbl="pub" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
       <a id="wait(x$1:Long,x$2:Int):Unit"></a><a id="wait(Long,Int):Unit"></a>
       <span class="permalink">
@@ -776,6 +936,38 @@ testing whether code points used are valid in a given orthographic system.
     </span>)</span>
               
         </dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#warn" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="warn(message:Any,cause:Throwable):Unit"></a><a id="warn(Any,Throwable):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#warn(message:Any,cause:Throwable):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">warn</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>, <span name="cause">cause: <span class="extype" name="scala.Throwable">Throwable</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
+    </li><li name="wvlet.log.LoggingMethods#warn" visbl="prt" class="indented0 " data-isabs="false" fullComment="yes" group="Ungrouped">
+      <a id="warn(message:Any):Unit"></a><a id="warn(Any):Unit"></a>
+      <span class="permalink">
+      <a href="../../../../../edu/holycross/shot/mid/validator/CodePointResults.html#warn(message:Any):Unit" title="Permalink">
+        <i class="material-icons"></i>
+      </a>
+    </span>
+      <span class="modifier_kind">
+        <span class="modifier">macro </span>
+        <span class="kind">def</span>
+      </span>
+      <span class="symbol">
+        <span class="name">warn</span><span class="params">(<span name="message">message: <span class="extype" name="scala.Any">Any</span></span>)</span><span class="result">: <span class="extype" name="scala.Unit">Unit</span></span>
+      </span>
+      
+      <div class="fullcomment"><dl class="attributes block"> <dt>Attributes</dt><dd>protected </dd><dt>Definition Classes</dt><dd>LoggingMethods</dd></dl></div>
     </li>
               </ol>
             </div>
@@ -815,14 +1007,20 @@ testing whether code points used are valid in a given orthographic system.
         </div>
 
         <div id="inheritedMembers">
-        <div class="parent" name="scala.Serializable">
-              <h3>Inherited from <span class="extype" name="scala.Serializable">Serializable</span></h3>
-            </div><div class="parent" name="java.io.Serializable">
-              <h3>Inherited from <span class="extype" name="java.io.Serializable">Serializable</span></h3>
-            </div><div class="parent" name="scala.Product">
+        <div class="parent" name="scala.Product">
               <h3>Inherited from <span class="extype" name="scala.Product">Product</span></h3>
             </div><div class="parent" name="scala.Equals">
               <h3>Inherited from <span class="extype" name="scala.Equals">Equals</span></h3>
+            </div><div class="parent" name="wvlet.log.LogSupport">
+              <h3>Inherited from <span class="extype" name="wvlet.log.LogSupport">LogSupport</span></h3>
+            </div><div class="parent" name="wvlet.log.LazyLogger">
+              <h3>Inherited from <span class="extype" name="wvlet.log.LazyLogger">LazyLogger</span></h3>
+            </div><div class="parent" name="wvlet.log.LoggingMethods">
+              <h3>Inherited from <span class="extype" name="wvlet.log.LoggingMethods">LoggingMethods</span></h3>
+            </div><div class="parent" name="scala.Serializable">
+              <h3>Inherited from <span class="extype" name="scala.Serializable">Serializable</span></h3>
+            </div><div class="parent" name="java.io.Serializable">
+              <h3>Inherited from <span class="extype" name="java.io.Serializable">Serializable</span></h3>
             </div><div class="parent" name="edu.holycross.shot.mid.validator.TestResults">
               <h3>Inherited from <a href="TestResults.html" class="extype" name="edu.holycross.shot.mid.validator.TestResults">TestResults</a>[<span class="extype" name="edu.holycross.shot.mid.validator.CodePointResults.T">T</span>]</h3>
             </div><div class="parent" name="scala.AnyRef">

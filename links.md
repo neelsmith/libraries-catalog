@@ -8,7 +8,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 
 | API docs                                                                         | Version | Summary                                                        | Github                                              |
 |:---------------------------------------------------------------------------------|:--------|:---------------------------------------------------------------|:----------------------------------------------------|
-| [midvalidator](projectvalidator/api/edu/holycross/shot/mid/validator/index.html) | 9.1.0   | A code library to validate HC-MID editorial projects.          | [github](https://github.com/HCMID/projectvalidator) |
+| [midvalidator](projectvalidator/api/edu/holycross/shot/mid/validator/index.html) | 9.2.0   | A code library to validate HC-MID editorial projects.          | [github](https://github.com/HCMID/projectvalidator) |
 | [midreaders](markupreaders/api/edu/holycross/shot/mid/markupreaders)             | 1.0.0   | Implementations of the `MidMarkupReader` trait in Scala.       | [github](https://github.com/HCMID/markupreaders)    |
 | xmlutils                                                                         | 2.0.0   | JVM utilities for working with structured data in XML formats. | [github](https://github.com/neelsmith/xmlutils)     |
 
@@ -49,9 +49,11 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 ## Archaeological data analysis
 
 
-| API docs                                           | Version | Summary                                                    | Github                                         |
-|:---------------------------------------------------|:--------|:-----------------------------------------------------------|:-----------------------------------------------|
-| [nomisma](nomisma/api/edu/holycross/shot/nomisma/) | 2.2.0   | Work with numismatic data sets from <http://nomisma.org/>. | [github](https://github.com/neelsmith/nomisma) |
+| API docs                                              | Version | Summary                                                    | Github                                            |
+|:------------------------------------------------------|:--------|:-----------------------------------------------------------|:--------------------------------------------------|
+| [nomisma](nomisma/api/edu/holycross/shot/nomisma/)    | 2.2.0   | Work with numismatic data sets from <http://nomisma.org/>. | [github](https://github.com/neelsmith/nomisma)    |
+| [ocre-texts](ocre-texts/api/edu/holycross/shot/text/) | 0.2.0   | Work with texts from OCRE.                                 | [github](https://github.com/neelsmith/ocre-texts) |
+
 | p-lod                                              |         | Pompeii, Linked Open Data                                  |                                                |
 | beazley                                            |         |                                                            |                                                |
 
