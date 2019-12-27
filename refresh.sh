@@ -53,5 +53,6 @@ export MSG="Committing automatically generated API docs."
 
 echo "Committing and pushing..."
 $GIT add docs
+$GIT add links.md
 $GIT commit -m "$MSG"
 $GIT push
