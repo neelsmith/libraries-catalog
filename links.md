@@ -51,7 +51,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 
 | API docs                                              | Version | Summary                                                    | Github                                            |
 |:------------------------------------------------------|:--------|:-----------------------------------------------------------|:--------------------------------------------------|
-| [nomisma](nomisma/api/edu/holycross/shot/nomisma/)    | 2.2.0   | Work with numismatic data sets from <http://nomisma.org/>. | [github](https://github.com/neelsmith/nomisma)    |
+| [nomisma](nomisma/api/edu/holycross/shot/nomisma/)    | 3.0.0   | Work with numismatic data sets from <http://nomisma.org/>. | [github](https://github.com/neelsmith/nomisma)    |
 | [ocre-texts](ocre-texts/api/edu/holycross/shot/text/) | 0.2.0   | Work with texts from OCRE.                                 | [github](https://github.com/neelsmith/ocre-texts) |
 
 | p-lod                                              |         | Pompeii, Linked Open Data                                  |                                                |
