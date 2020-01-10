@@ -28,7 +28,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 | API docs      | Version | Summary                                                | Github                                                    |
 |:--------------|:--------|:-------------------------------------------------------|:----------------------------------------------------------|
 | hmt-mom       | 3.5.3   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)       |
-| hmt-textmodel | 6.0.1   | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel) |
+| hmt-textmodel | 5.1.0  | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel) |
 | hmt-cexbuilder | 3.4.0   | Build a CITE library from HMT archival material                  | [github](https://github.com/homermultitext/hmt-cexbuilder) |
 
 
