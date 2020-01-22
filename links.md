@@ -8,7 +8,7 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 
 | API docs                                                                     | Version | Summary                                                        | Github                                              |
 |:-----------------------------------------------------------------------------|:--------|:---------------------------------------------------------------|:----------------------------------------------------|
-| [midvalidator](projectvalidator/edu/holycross/shot/mid/validator/index.html) | 11.0.0   | A code library to validate HC-MID editorial projects.          | [github](https://github.com/HCMID/projectvalidator) |
+| [midvalidator](projectvalidator/edu/holycross/shot/mid/validator/index.html) | 11.0.0  | A code library to validate HC-MID editorial projects.          | [github](https://github.com/HCMID/projectvalidator) |
 | [midreaders](markupreaders/edu/holycross/shot/mid/markupreaders)             | 1.0.0   | Implementations of the `MidMarkupReader` trait in Scala.       | [github](https://github.com/HCMID/markupreaders)    |
 | xmlutils                                                                     | 2.0.0   | JVM utilities for working with structured data in XML formats. | [github](https://github.com/neelsmith/xmlutils)     |
 
@@ -25,11 +25,11 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 ## Homer Multitext project
 
 
-| API docs      | Version | Summary                                                | Github                                                    |
-|:--------------|:--------|:-------------------------------------------------------|:----------------------------------------------------------|
-| hmt-mom       | 3.5.3   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)       |
-| hmt-textmodel | 6.1.1  | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel) |
-| hmt-cexbuilder | 3.5.0   | Build a CITE library from HMT archival material                  | [github](https://github.com/homermultitext/hmt-cexbuilder) |
+| API docs       | Version | Summary                                                | Github                                                     |
+|:---------------|:--------|:-------------------------------------------------------|:-----------------------------------------------------------|
+| hmt-mom        | 3.5.3   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)        |
+| hmt-textmodel  | 6.1.1   | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel)  |
+| hmt-cexbuilder | 3.5.0   | Build a CITE library from HMT archival material        | [github](https://github.com/homermultitext/hmt-cexbuilder) |
 
 
 
@@ -63,3 +63,4 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 | API docs      | Version | Summary | Github                                               |
 |:--------------|:--------|:--------|:-----------------------------------------------------|
 | ptolemy-texts |         |         | [github](https://github.com/neelsmith/ptolemy-texts) |
+| ptolemy       |         |         | [github](https://github.com/neelsmith/ptolemy)       |
