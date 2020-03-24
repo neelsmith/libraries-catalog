@@ -38,10 +38,10 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 
 | API docs                                          | Version | Summary                                                                    | Github                                              |
 |:--------------------------------------------------|:--------|:---------------------------------------------------------------------------|:----------------------------------------------------|
-| [greek](greek/edu/holycross/shot/greek)           | 2.4.0   | Utilities in Scala for working with polytonic ancient Greek.               | [github](https://github.com/neelsmith/greek)        |
+| [greek](greek/edu/holycross/shot/greek)           | 4.0.2   | Utilities in Scala for working with polytonic ancient Greek.               | [github](https://github.com/neelsmith/greek)        |
 | [gsphone](gsphone/edu/holycross/shot/gsphonology) | 1.4.3   | Manipulate GreekString objects phonologically                              | [github](https://github.com/neelsmith/gsphonology)  |
 | [latphone](latphone/edu/holycross/shot/latin)     | 2.7.2   | Latin orthography and phonology                                            | [github](https://github.com/neelsmith/latphone)     |
-| latincorpus                                       | 2.2.1   | A citable, morphologically parseable corpus of texts in Latin              | [github](https://github.com/neelsmith/latin-corpus) |
+| latincorpus                                       | 2.2.2   | A citable, morphologically parseable corpus of texts in Latin              | [github](https://github.com/neelsmith/latin-corpus) |
 | latin-text-model                                  | 1.3.0   | Specification and implementation of a model for editions of texts in Latin | [github](https://github.com/HCMID/latin-text-model) |
 | [tabulae](tabulae/edu/holycross/shot/tabulae)     | 6.0.1   | A build system for Latin morphological parsers                             | [github](https://github.com/neelsmith/tabulae)      |
 
@@ -54,13 +54,12 @@ See current information  at <https://cite-architecture.github.io/cite-api-docs/>
 |:--------------------------------------------------|:--------|:-----------------------------------------------------------|:--------------------------------------------------|
 | [nomisma](nomisma/edu/holycross/shot/nomisma/)    | 3.1.1   | Work with numismatic data sets from <http://nomisma.org/>. | [github](https://github.com/neelsmith/nomisma)    |
 | [ocre-texts](ocre-texts/edu/holycross/shot/text/) | 0.3.1   | Work with texts from OCRE.                                 | [github](https://github.com/neelsmith/ocre-texts) |
-
-| p-lod                                              |         | Pompeii, Linked Open Data                                  |                                                |
-| beazley                                            |         |                                                            |                                                |
+| p-lod                                             |         | Pompeii, Linked Open Data                                  |                                                   |
+| beazley                                           |         |                                                            |                                                   |
 
 ## Ancient science
 
-| API docs      | Version | Summary | Github                                               |
-|:--------------|:--------|:--------|:-----------------------------------------------------|
-| ptolemy-texts |         |         | [github](https://github.com/neelsmith/ptolemy-texts) |
-| ptolemy       |         |         | [github](https://github.com/neelsmith/ptolemy)       |
+| API docs      | Version | Summary                                                                                                              | Github                                               |
+|:--------------|:--------|:---------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------|
+| ptolemy-texts | 1.0.1   | A library to read a TEI edition of Ptolemy's Geography and parse it into a data set of points with lon-lat locations | [github](https://github.com/neelsmith/ptolemy-texts) |
+| ptolemy       | 1.5.0   | Implementations of some data sets and functions in extant works of Claudius Ptolemy                                  | [github](https://github.com/neelsmith/ptolemy)       |
