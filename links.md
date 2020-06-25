@@ -23,8 +23,8 @@ From my work with the Holy Cross MID Club, see current information at <https://h
 
 | API docs       | Version | Summary                                                | Github                                                     |
 |:---------------|:--------|:-------------------------------------------------------|:-----------------------------------------------------------|
-| [hmt-mom](hmt-mom)        | 4.0.0   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)        |
-| [hmt-textmodel]()  | 8.0.0   | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel)  |
+| [hmt-mom](hmt-mom/org/homermultitext/)        | 4.0.0   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)        |
+| [hmt-textmodel](hmt-textmodel/org/homermultitext/)  | 8.0.0   | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel)  |
 | hmt-cexbuilder | 3.5.0   | Build a CITE library from HMT archival material        | [github](https://github.com/homermultitext/hmt-cexbuilder) |
 
 
