@@ -14,7 +14,7 @@ From my work with the Holy Cross MID Club, see current information at <https://h
 | API docs                                              | Version | Summary                                                                                                                                      | Github                                            |
 |:------------------------------------------------------|:--------|:---------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------|
 | [seqcomp](seqcomp/edu/holycross/shot/seqcomp)         | 2.2.1   | Scala utilities for comparing type-parameterized sequences. Includes computing Longest Common Subsequence and Shortest Common Supersequence. | [github](https://github.com/neelsmith/lcs-scs)    |
-| [histoutils](histoutils/edu/holcross/shot/histoutils) | 2.3.0   | Utilities for working in Scala with type-parameterized histograms and frequency counts.                                                      | [github](https://github.com/neelsmith/histoutils) |
+| [histoutils](histoutils/edu/holycross/shot/histoutils) | 2.3.0   | Utilities for working in Scala with type-parameterized histograms and frequency counts.                                                      | [github](https://github.com/neelsmith/histoutils) |
 | xmlutils                                                                     | 2.0.0   | JVM utilities for working with structured data in XML formats. | [github](https://github.com/neelsmith/xmlutils)     |
 
 
@@ -23,7 +23,7 @@ From my work with the Holy Cross MID Club, see current information at <https://h
 
 | API docs       | Version | Summary                                                | Github                                                     |
 |:---------------|:--------|:-------------------------------------------------------|:-----------------------------------------------------------|
-| [hmt-mom]()        | 4.0.0   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)        |
+| [hmt-mom](hmt-mom)        | 4.0.0   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)        |
 | [hmt-textmodel]()  | 8.0.0   | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel)  |
 | hmt-cexbuilder | 3.5.0   | Build a CITE library from HMT archival material        | [github](https://github.com/homermultitext/hmt-cexbuilder) |
 
