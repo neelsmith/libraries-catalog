@@ -34,7 +34,7 @@ From my work with the Holy Cross MID Club, see current information at <https://h
 
 | API docs                                          | Version | Summary                                                                    | Github                                              |
 |:--------------------------------------------------|:--------|:---------------------------------------------------------------------------|:----------------------------------------------------|
-| [greek](greek/edu/holycross/shot/greek)           | 5.5.0   | Utilities in Scala for working with polytonic ancient Greek.               | [github](https://github.com/neelsmith/greek)        |
+| [greek](greek/edu/holycross/shot/greek)           | 5.5.1   | Utilities in Scala for working with polytonic ancient Greek.               | [github](https://github.com/neelsmith/greek)        |
 | [gsphone](gsphone/edu/holycross/shot/gsphonology) | 1.4.3   | Manipulate GreekString objects phonologically                              | [github](https://github.com/neelsmith/gsphonology)  |
 | [latphone](latphone/edu/holycross/shot/latin)     | 2.7.2   | Latin orthography and phonology                                            | [github](https://github.com/neelsmith/latphone)     |
 | latincorpus                                       | 2.2.2   | A citable, morphologically parseable corpus of texts in Latin              | [github](https://github.com/neelsmith/latin-corpus) |
