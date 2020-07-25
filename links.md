@@ -24,7 +24,7 @@ From my work with the Holy Cross MID Club, see current information at <https://h
 | API docs       | Version | Summary                                                | Github                                                     |
 |:---------------|:--------|:-------------------------------------------------------|:-----------------------------------------------------------|
 | [hmt-mom](hmt-mom/org/homermultitext/hmtmom/index.html)        | 4.0.0   | Homer Multitext project: Mandatory Ongoing Maintenance | [github](https://github.com/homermultitext/hmt-mom)        |
-| [hmt-textmodel](hmt-textmodel/org/homermultitext/edmodel/index.html)  | 8.1.1   | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel)  |
+| [hmt-textmodel](hmt-textmodel/org/homermultitext/edmodel/index.html)  | 8.0.0   | Model of text content of HMT editions                  | [github](https://github.com/homermultitext/hmt-textmodel)  |
 | hmt-cexbuilder | 3.5.0   | Build a CITE library from HMT archival material        | [github](https://github.com/homermultitext/hmt-cexbuilder) |
 
 
@@ -34,12 +34,12 @@ From my work with the Holy Cross MID Club, see current information at <https://h
 
 | API docs                                          | Version | Summary                                                                    | Github                                              |
 |:--------------------------------------------------|:--------|:---------------------------------------------------------------------------|:----------------------------------------------------|
-| [greek](greek/edu/holycross/shot/greek)           | 5.5.1   | Utilities in Scala for working with polytonic ancient Greek.               | [github](https://github.com/neelsmith/greek)        |
+| [greek](greek/edu/holycross/shot/greek)           | 9.0.0   | Utilities in Scala for working with polytonic ancient Greek.               | [github](https://github.com/neelsmith/greek)        |
 | [gsphone](gsphone/edu/holycross/shot/gsphonology) | 1.4.3   | Manipulate GreekString objects phonologically                              | [github](https://github.com/neelsmith/gsphonology)  |
-| [latphone](latphone/edu/holycross/shot/latin)     | 2.7.2   | Latin orthography and phonology                                            | [github](https://github.com/neelsmith/latphone)     |
-| latincorpus                                       | 2.2.2   | A citable, morphologically parseable corpus of texts in Latin              | [github](https://github.com/neelsmith/latin-corpus) |
+| [latphone](latphone/edu/holycross/shot/latin)     | 3.0.0   | Latin orthography and phonology                                            | [github](https://github.com/neelsmith/latphone)     |
+| latincorpus                                       | 3.2.0   | A citable, morphologically parseable corpus of texts in Latin              | [github](https://github.com/neelsmith/latin-corpus) |
 | latin-text-model                                  | 1.3.0   | Specification and implementation of a model for editions of texts in Latin | [github](https://github.com/HCMID/latin-text-model) |
-| [tabulae](tabulae/edu/holycross/shot/tabulae)     | 6.0.1   | A build system for Latin morphological parsers                             | [github](https://github.com/neelsmith/tabulae)      |
+| [tabulae](tabulae/edu/holycross/shot/tabulae)     | 6.3.0  | A build system for Latin morphological parsers                             | [github](https://github.com/neelsmith/tabulae)      |
 
 
 
